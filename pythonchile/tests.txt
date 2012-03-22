@@ -1,0 +1,9 @@
+Blablabla asld faksjd flkasj dfas df
+
+>>> from pythonchile.models import MyModel, DBSession
+>>> session = DBSession()
+>>> my_model = session.query(MyModel).get(1)
+>>> my_model.name
+u'oneXXXXXXXXXXXX'
+
+Fin Testa sdfkjas dflkjad s

@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = pythonchile:main
+      [console_scripts]
+      populate_PythonChile = pythonchile.scripts.populate:main
+      
